@@ -21,6 +21,7 @@ Historial de consultas: Registra preguntas, respuestas y fuentes en history.txt 
 Interfaz interactiva: Tiene su propia interfaz gráfica con diferentes temas disponibles.
 
 # Instalación
+### Recomiendo usar un entorno virutal
 Sigue estos pasos para instalar y configurar BashBot en tu sistema:
 
 Clona el repositorio:
