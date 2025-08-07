@@ -8,8 +8,6 @@ BashBot es un asistente interactivo de terminal diseñado para ayudar a usuarios
 - Características
 - Instalación
 - Uso
-- Comandos Disponibles
-
 
 # Características
 Búsqueda local: Consulta un diccionario local (comandos_comunes.json) para respuestas rápidas sobre comandos de Bash.
@@ -20,7 +18,7 @@ Formato legible: Usa colores (verde para respuestas, azul para preguntas, rojo p
 
 Historial de consultas: Registra preguntas, respuestas y fuentes en history.txt para referencia futura.
 
-Interfaz interactiva: Permite a los usuarios continuar explorando resultados o salir con comandos como salir, exit o quit.
+Interfaz interactiva: Tiene su propia interfaz gráfica con diferentes temas disponibles.
 
 # Instalación
 Sigue estos pasos para instalar y configurar BashBot en tu sistema:
@@ -45,12 +43,7 @@ python bashbot.py
 
 El historial de esta interacción se guardará en history.txt.
 
-# Comandos Disponibles
-Consultas de comandos: Ingresa cualquier comando de Bash (ej. ls, grep, chmod) para obtener su descripción.
-
-Ver historial: Escribe ver historial para mostrar el historial de consultas almacenado en history.txt.
+![Captura de BashBot](/bashbotimg.png)
 
 
-
-Salir: Usa salir, exit o quit para cerrar BashBot.
 
