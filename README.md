@@ -5,10 +5,10 @@ BashBot
 BashBot es un asistente interactivo de terminal diseñado para ayudar a usuarios de Linux a aprender y utilizar comandos de Bash de manera eficiente. Busca respuestas en un diccionario local de comandos comunes (comandos_comunes.json) y, si es necesario, realiza búsquedas en línea utilizando Google para proporcionar información actualizada y relevante. BashBot utiliza colores para mejorar la legibilidad y guarda un historial de consultas en history.txt.
 
 # Tabla de Contenidos
-Características
-Instalación
-Uso
-Comandos Disponibles
+- Características
+- Instalación
+- Uso
+- Comandos Disponibles
 
 
 # Características
